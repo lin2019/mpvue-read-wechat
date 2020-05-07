@@ -34,4 +34,44 @@ npm build:my
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# mpvue实战阅读小程序
+
+### 功能特性
+
+1. 用户授权，登录
+2. 触底刷新，图片懒加载
+3. 搜索，热搜榜，历史搜索数据
+4. 读书卡片组件分类
+5. 读书详情页，阅读器，加入移出书架，评分
+6. 个人书架
+
+### 更新日志
+
+##### 1.0.0|2020.3.27
+
+初步开发，完成基础功能
+
+### 运行图片
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115900.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115911.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115915.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115919.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115921.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115924.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115926.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115929.png)
+
+![](https://github.com/lin2019/mpvue-read-wechat/blob/master/images/QQ%E5%9B%BE%E7%89%8720200507115932.png)
+
+### 结语
+
+未完，待更新。。。:slightly_smiling_face:
+
